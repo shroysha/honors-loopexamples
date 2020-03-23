@@ -1,5 +1,5 @@
 # honors-loopexamples
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/archive/school/honors-loopexamples](https://github.com/shroysha/shroysha.github.io/tree/master/archive/school/honors-loopexamples)
+> see code: [https://github.com/shroysha/honors-loopexamples](https://github.com/shroysha/honors-loopexamples)
 
 ## Description
 null
