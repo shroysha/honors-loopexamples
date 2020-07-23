@@ -1,7 +1,7 @@
 # honors-loopexamples
 
 ## Description
-null
+Loop practice given in Honors Java
 
 ### Tags
 [Java]
